@@ -93,7 +93,7 @@ int main() {
 	}
 
 	int cod = 0; // vai receber o ultimo cadastro
-  int cod2 = 0; // vai receber a ultima exclusão
+  	int cod2 = 0; // vai receber a ultima exclusão
 	int ident, acao = 10, retorno;
 
 	while (acao > 0) {
