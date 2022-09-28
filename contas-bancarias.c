@@ -195,8 +195,8 @@ int main() {
 			}
 		}
 
-    else if (acao == 0) {
-      //serve para nao aparecer o print debaixo quando for digitado 0;
+    		else if (acao == 0) {
+      			//serve para nao aparecer o print abaixo quando for digitado 0;
 		}
 
 		else {
