@@ -203,5 +203,5 @@ int main() {
 			printf("\n\nOpçao invalida!\n");
 		}
 	}
-  return 1;
+  return 0;
 }
