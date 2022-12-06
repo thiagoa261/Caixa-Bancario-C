@@ -1,6 +1,6 @@
 #include <stdio.h>
 #define x 10000
-
+//
 int cria(float m[3][x], int *id) {
   if (m[2][*id] == 0 && *id <= x) {
 		printf("CPF: ");
