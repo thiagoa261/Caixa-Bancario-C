@@ -1,2 +1,2 @@
-# Trabalho Estrutura de dados (Contas Bancarias)
+# Trabalho Estrutura de dados (contas bancarias)
 
