@@ -4,7 +4,6 @@ Programa que simule contas bancárias, com as seguintes funções e
 especificações:
 
 ● Cada conta terá o código e o CPF do cliente associado a ela.
-
 ● Função para criar contas bancárias.
 
 ● Função para atualizar conta bancária.
